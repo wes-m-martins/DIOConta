@@ -1,0 +1,16 @@
+C:\Users\Aluno\Documents\DIO\Dio.Banco\bin\Debug\net5.0\Dio.Banco.exe
+C:\Users\Aluno\Documents\DIO\Dio.Banco\bin\Debug\net5.0\Dio.Banco.deps.json
+C:\Users\Aluno\Documents\DIO\Dio.Banco\bin\Debug\net5.0\Dio.Banco.runtimeconfig.json
+C:\Users\Aluno\Documents\DIO\Dio.Banco\bin\Debug\net5.0\Dio.Banco.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\DIO\Dio.Banco\bin\Debug\net5.0\Dio.Banco.dll
+C:\Users\Aluno\Documents\DIO\Dio.Banco\bin\Debug\net5.0\ref\Dio.Banco.dll
+C:\Users\Aluno\Documents\DIO\Dio.Banco\bin\Debug\net5.0\Dio.Banco.pdb
+C:\Users\Aluno\Documents\DIO\Dio.Banco\obj\Debug\net5.0\Dio.Banco.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\DIO\Dio.Banco\obj\Debug\net5.0\Dio.Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\DIO\Dio.Banco\obj\Debug\net5.0\Dio.Banco.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\DIO\Dio.Banco\obj\Debug\net5.0\Dio.Banco.AssemblyInfo.cs
+C:\Users\Aluno\Documents\DIO\Dio.Banco\obj\Debug\net5.0\Dio.Banco.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\DIO\Dio.Banco\obj\Debug\net5.0\Dio.Banco.dll
+C:\Users\Aluno\Documents\DIO\Dio.Banco\obj\Debug\net5.0\ref\Dio.Banco.dll
+C:\Users\Aluno\Documents\DIO\Dio.Banco\obj\Debug\net5.0\Dio.Banco.pdb
+C:\Users\Aluno\Documents\DIO\Dio.Banco\obj\Debug\net5.0\Dio.Banco.genruntimeconfig.cache
