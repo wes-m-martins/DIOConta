@@ -3,9 +3,9 @@ namespace Dio.Banco
 
     public enum TipoConta
     {
-        PessoaFisica = 1,
+        Fisica = 1,
 
-        PessoaJuridica = 2
+        Juridica = 2
 
     }
 
